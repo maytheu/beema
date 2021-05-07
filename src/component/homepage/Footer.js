@@ -14,7 +14,7 @@ function Footer(props) {
         <div className="content_text">and we will do the rest</div>
         <Button margin={40}>Start your Project</Button>
       </div>
-      <div className="testimonial_divider"></div>
+      <div className="testimonial_divider"  ></div>
       <div className="footer_link">
         <div className="link">
           <div className="about">Privacy Policy</div>
