@@ -13,11 +13,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can find the project here https://shallow-boy.surge.sh/
 
-- [bat](#bat)
-- [exa](#exa)
-- [lsd](#lsd)
-- [dust](#dust)
-- [delta](#dust)
+- [bat](#----bat--)
+
+- [exa](#----exa--)
+
+- [lsd](#----lsd--)
+
+- [dust](#----dust--)
+
+- [delta](#----delta--)
 
 
 ## <p align="center">
